@@ -1,0 +1,10 @@
+{
+  "name": "sFirebase",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^3.6.9"
+  },
+  "devDependencies": {
+    "firebase": "^3.6.9"
+  }
+}
